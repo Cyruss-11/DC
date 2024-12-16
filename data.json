@@ -1,0 +1,14 @@
+{
+    "collections": [
+        {
+            "id": "...",
+            "title": "...",
+            "collector": "...",
+            "deadline": "...",
+            "announcement_title": "公告标题",
+            "announcement": "...",
+            "allowed_extensions": "...",
+            "created_at": "..."
+        }
+    ]
+} 
